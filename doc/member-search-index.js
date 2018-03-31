@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.handong.csee.java.lab06","c":"Lab06","l":"compteNumOfBugKill()"},{"p":"edu.handong.csee.java.lab06","c":"Lab06","l":"Lab06()"},{"p":"edu.handong.csee.java.lab06","c":"Lab06","l":"main(String[])","url":"main-java.lang.String:A-"}]
